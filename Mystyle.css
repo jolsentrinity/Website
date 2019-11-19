@@ -1,0 +1,18 @@
+Ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+A {
+	color: #880033;
+	text-decoration: none;
+}
+Body{
+	background-image: url("seamless-background.png");
+	font-family: "Comic Sans MS";
+	font-size: 13px;	
+	color: black
+}
+H1 {	color: gray;
+	font-size: 24px;
+}
